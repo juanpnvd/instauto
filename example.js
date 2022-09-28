@@ -11,8 +11,8 @@ const logger = Object.fromEntries(['log', 'info', 'debug', 'error', 'trace', 'wa
 const options = {
   cookiesPath: './cookies.json',
 
-  username: 'your-ig-username',
-  password: 'your-ig-password',
+  username: 'jnavedaist',
+  password: 'alpha.alpha',
 
   // Global limit that prevents follow or unfollows (total) to exceed this number over a sliding window of one hour:
   maxFollowsPerHour: 20,
